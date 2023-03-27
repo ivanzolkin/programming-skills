@@ -1,0 +1,176 @@
+## Roadmap
+[Computer Science](https://roadmap.sh/computer-science)
+
+## Checklist
+ [ ] Data Structures
+	- [ ] Array
+	- [ ] Linked List
+	- [ ] Stack
+	- [ ] Queue
+	- [ ] Hash Table
+	- [ ] Tree
+	- [ ] Graph
+	- [ ] Heap
+- [ ] Asymptotic Notation
+	- [ ] Big O Notation
+	- [ ] Big-θ Notation
+	- [ ] Big-Ω Notation
+	- [ ] Common Runtime
+		- [ ] Constant
+		- [ ] Logarithmic
+		- [ ] Linear
+		- [ ] Polynomial
+		- [ ] Exponential
+		- [ ] Factorial
+- [ ] Common Algorithms
+	- [ ] Sorting
+		- [ ] Bubble Sort
+		- [ ] Selection Sort
+		- [ ] Insertion Sort
+		- [ ] Heap Sort
+		- [ ] Quick Sort
+		- [ ] Merge Sort
+	- [ ] Recursion
+		- [ ] Tail Recursion
+		- [ ] Non-Tail Recursion
+	- [ ] Searching
+		- [ ] Binary Search
+		- [ ] Linear Search
+	- [ ] Caches
+		- [ ] LRU Cache
+		- [ ] LFU Cache
+		- [ ] MFU Cache
+	- [ ] Tree
+		- [ ] Pre-Order Traversal
+		- [ ] In-Order Traversal
+		- [ ] Post Order Traversal
+		- [ ] Breadth First Search
+		- [ ] Depth First Search
+	- [ ] Graph
+		- [ ] Breadth First Search
+		- [ ] Depth First Search
+		- [ ] Bellman Ford's Algorithm
+		- [ ] Dijkstra's Algorithm
+		- [ ] A* Algorithm
+	- [ ] Greedy Algorithms
+		- [ ] Dijkstra's Algorithm
+		- [ ] Huffman Coding
+		- [ ] Kruskal's Algorithm
+		- [ ] Ford-Fulkerson Algorithm
+		- [ ] Prim's Algorithm
+	- [ ] Back Tracking
+		- [ ] Finding Hamiltonian Paths
+		- [ ] Solving N Queen Problem
+		- [ ] Maze Solving Problem
+		- [ ] The Knight's Tour Problem
+	- [ ] String Search & Manipulations
+		- [ ] Suffix Arrays
+		- [ ] Search Pattern in Text
+		- [ ] Substring Search
+			- [ ] Brute Force Search
+			- [ ] Knuth-Morris Pratt
+			- [ ] Boyer-Moore
+			- [ ] Rabin-Karp
+	- [ ] Bitwise Operators
+	- [ ] Floating Point Numbers
+	- [ ] Endianess
+		- [ ] Big Endian
+		- [ ] Little Endian
+	- [ ] Character Encodings
+		- [ ] Unicode
+		- [ ] ASCII
+	- [ ] Common UML Diagrams
+		- [ ] Class Diagrams
+		- [ ] Usecase Diagrams
+		- [ ] Activity Diagrams
+		- [ ] State Machine Diagrams
+		- [ ] Sequence Diagrams
+	- [ ] Design Patterns
+		- [ ] GoF Design Patterns
+		- [ ] Architectural Patterns
+		- [ ] Dependency Injection
+		- [ ] Null Object Pattern
+		- [ ] Type Object Pattern
+	- [ ] Basic Math Skills
+		- [ ] Probability
+		- [ ] Combinatorics
+	- [ ] Complexity Classes
+		- [ ] P
+		- [ ] NP
+		- [ ] Co-NP
+		- [ ] NP Hard
+		- [ ] NP Complete
+			- [ ] Travelling Salesman Problem
+			- [ ] Knapsack Problem
+			- [ ] Longest Path Problem
+		- [ ] P=NP
+	- [ ] Tries
+	- [ ] Balanced Search Trees
+		- [ ] 2-3-4 Trees
+		- [ ] K-ary / M-ary Tree
+		- [ ] B-Tree
+	- [ ] System Design
+		- [ ] Load Balancing
+		- [ ] Horizontal vs Vertical Scaling
+		- [ ] Clustering
+		- [ ] Caching
+		- [ ] Content Delivery Network (CDN)
+		- [ ] Proxy
+		- [ ] CAP Theorem
+		- [ ] Queues
+		- [ ] Architectural Styles
+		- [ ] REST
+		- [ ] GraphQL
+		- [ ] gRPC
+		- [ ] Cloud Design Patterns
+		- [ ] Long Polling
+		- [ ] Short Polling
+		- [ ] Web Sockets
+		- [ ] Server Sent Events (SSE)
+	- [ ] Databases
+		- [ ] SQL vs NoSQL Databases
+		- [ ] Normalization / Denormalization
+		- [ ] Entity-Relationship Model
+		- [ ] DDL
+		- [ ] DML
+		- [ ] DQL
+		- [ ] DCL
+		- [ ] Locking
+		- [ ] Transactions
+		- [ ] ACID Model
+		- [ ] BASE Model
+		- [ ] CAP Theorem
+		- [ ] PACELC
+		- [ ] Indexes
+		- [ ] Views
+		- [ ] Transactions
+		- [ ] Stored Procedures
+		- [ ] Database Federation
+		- [ ] Replication
+		- [ ] Sharding
+	- [ ] Networking
+		- [ ] OSI Model
+		- [ ] TCP / IP Model
+		- [ ] DNS
+		- [ ] HTTP
+		- [ ] TLS & HTTPS
+		- [ ] Sockets
+	- [ ] Security
+		- [ ] Public Key Cryptography
+		- [ ] Hashing / Encryption / Encoding
+		- [ ] Hashing Algorithms
+		- [ ] OWASP Top 10
+	- [ ] How Computers Work
+		- [ ] Registers and RAMs
+		- [ ] Instructions and Programs
+		- [ ] CPU Cache
+	- [ ] Processes and Threads
+		- [ ] Processes vs Threads
+		- [ ] CPU Interrupts
+		- [ ] Scheduling Algorithms
+		- [ ] Concurrency in Multiple Cores
+		- [ ] Lock / Mutex / Semaphore
+		- [ ] Memory Management
+		- [ ] Process Forking
+	- [ ] K-D Trees
+	- [ ] Skip Lists
