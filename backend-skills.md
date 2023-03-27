@@ -1,0 +1,115 @@
+## Roadmap
+[Backend Roadmap](https://roadmap.sh/backend)
+
+## Checklist
+- [ ] Node.js
+- [ ] Operating Systems
+	- [ ] Operating Systems Knowledge
+		- [ ] How OSs work in General
+		- [ ] Memory Management
+		- [ ] Interprocess Communication
+		- [ ] I/O Management
+		- [ ] Basic Networking Concepts
+		- [ ] Threads and Concurrency
+		- [ ] Process Management
+	- [ ] Basic Terminal Commands
+	- [ ] POSIX Basics
+	- [ ] Terminal Usage
+- [ ] Relational Databases
+	- [ ] PostgreSQL
+- [ ] NoSQL databases
+	- [ ] Document DBs
+		- [ ] MongoDB
+	- [ ] Key-value
+		- [ ] Redis
+	- [ ] Time Series
+		- [ ] InfluxDB
+	- [ ] Realtime
+		- [ ] Firebase
+	- [ ] Column DBs
+		- [ ] Cassandra
+	- [ ] Graph DBs
+		- [ ] Neo4j
+- [ ] More about Databases
+	- [ ] ORMs 
+	- [ ] ACID
+	- [ ] Transactions
+	- [ ] N+1 Problem
+	- [ ] Normalization
+	- [ ] Failure Modes
+	- [ ] Profiling Performance
+- [ ] Scaling Databases
+	- [ ] Database Indexes
+	- [ ] Data Replication
+	- [ ] Sharding strategies
+	- [ ] CAP Theorem
+- [ ] APIs
+	- [ ] REST
+	- [ ] JSON APIs
+	- [ ] SOAP
+	- [ ] gRPC
+	- [ ] GraphQL
+	- [ ] HATEOAS
+	- [ ] Open API Specs
+	- [ ] Authentication
+		- [ ] Cookie Based
+		- [ ] OAuth
+		- [ ] Basic Auth
+		- [ ] Token Auth
+		- [ ] JWT
+		- [ ] OpenID
+		- [ ] SAML
+- [ ] Caching
+	- [ ] Client Side
+	- [ ] Server Side
+		- [ ] Redis
+	- [ ] CDN
+- [ ] Web Security Knowledge
+	- [ ] Hashing Algorithms
+		- [ ] MD5 and why not to use it
+		- [ ] SHA Family
+		- [ ] scrypt
+		- [ ] bcrypt
+	- [ ] HTTPS
+	- [ ] OWASP Security Risks
+	- [ ] CORS
+	- [ ] SSL/TLS
+	- [ ] Content Security Policy
+	- [ ] Server Security
+- [ ] CI / CD
+- [ ] Design and development principles
+	- [ ] GOF Design Patterns
+	- [ ] Domain Driven Design
+	- [ ] Test Driven Development
+	- [ ] CQRS
+	- [ ] Event Sourcing
+- [ ] Architectural Patterns
+	- [ ] Monolithic Apps
+	- [ ] Microservices
+	- [ ] SOA
+	- [ ] Serverless
+	- [ ] Service Mesh
+	- [ ] Twelve Factor Apps
+- [ ] Search Engines
+	- [ ] Elasticsearch
+- [ ] Message Brokers
+	- [ ] RabbitMQ
+- [ ] Containerization vs Virtualization
+	- [ ] Kubernetes
+	- [ ] Docker
+- [ ] GraphQL
+	- [ ] Apollo
+- [ ] WebSockets
+- [ ] Server Sent Events
+- [ ] Web Servers
+	- [ ] Nginx
+- [ ] Building for Scale
+	- [ ] Instrumentation, Monitoring, and Telemetry
+	- [ ] Mitigation Strategies
+		- [ ] Graceful Degradation
+		- [ ] Throttling
+		- [ ] Backpressure
+		- [ ] Loadshifting
+		- [ ] Circuit Breaker
+	- [ ] Horizontal/Vertical Scaling
+	- [ ] Observability
