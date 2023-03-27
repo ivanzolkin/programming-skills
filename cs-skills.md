@@ -2,7 +2,7 @@
 [Computer Science](https://roadmap.sh/computer-science)
 
 ## Checklist
- [ ] Data Structures
+- [ ] Data Structures
 	- [ ] Array
 	- [ ] Linked List
 	- [ ] Stack
