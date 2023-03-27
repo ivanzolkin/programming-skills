@@ -1,0 +1,114 @@
+- [ ] HTML
+	- [ ] Basics
+	- [ ] Semantic
+	- [ ] Forms & Validations
+	- [ ] Validity
+	- [ ] Accessibility (WCAG)
+	- [ ] SEO Basics
+	- [ ] Conventions & Best Practices
+- [ ] CSS
+	- [ ] Basics
+	- [ ] Layouts
+		- [ ] Box model
+		- [ ] Display
+		- [ ] Floats
+		- [ ] Positioning
+		- [ ] CSS Flexbox
+		- [ ] CSS Grid
+	- [ ] RWD & Media queries
+	- [ ] Crossbrowsing
+	- [ ] Animations
+- [ ] Design
+	- [ ] Figma
+	- [ ] Adobe PS
+- [ ] JavaScript
+	- [ ] Syntax & Basic Construct
+	- [ ] Objects & OOP
+	- [ ] DOM Manipulation
+	- [ ] Fetch API / Ajax (XHR)
+	- [ ] ES6+ and modular JS
+	- [ ] Understanding the concepts:
+		- [ ] Hoisting
+		- [ ] Event Bubbling
+		- [ ] Scope
+		- [ ] Prototype
+		- [ ] Shadow DOM
+		- [ ] strict
+- [ ] Version Control Systems
+	- [ ] Git
+	- [ ] Repo Hosting Services
+		- [ ] GitHub
+		- [ ] GitLab
+- [ ] Package Managers
+	- [ ] npm
+	- [ ] yarn
+- [ ] CSS Architecture
+	- [ ] BEM
+- [ ] CSS Preprocessors
+	- [ ] Sass
+	- [ ] PostCSS
+- [ ] Build Tools
+	- [ ] Linters & Formatters
+		- [ ] Prettier
+		- [ ] ESLint
+	- [ ] Task Runners
+		- [ ] npm scripts
+	- [ ] Module Bundlers
+		- [ ] Vite
+		- [ ] esbuild
+		- [ ] Webpack
+- [ ] JS Framework
+	- [ ] React
+- [ ] Modern CSS
+	- [ ] Styled Components
+	- [ ] CSS Modules
+- [ ] CSS Frameworks
+	- [ ] Tailwind
+- [ ] Testing
+	- [ ] Testing concepts
+		- [ ] Unit
+		- [ ] Integration
+		- [ ] Functional
+	- [ ] Testing frameworks & libraries
+		- [ ] Jest
+		- [ ] react-testing-library
+		- [ ] Cypress
+		- [ ] Playwright
+- [ ] Web Components
+	- [ ] HTML Templates
+	- [ ] Custom Elements
+	- [ ] Shadow DOM
+- [ ] Type Checkers
+	- [ ] Typescript
+- [ ] Progressive Web Apps
+	- [ ] Web APIs used in PWAs
+		- [ ] Storage
+		- [ ] Web Sockets
+		- [ ] Server Sent Events
+		- [ ] Service Workers
+		- [ ] Location
+		- [ ] Notifications
+		- [ ] Device Orientation
+		- [ ] Payments
+		- [ ] Credentials
+	- [ ] Calculating, measuring and improving performance
+		- [ ] PRPL Pattern
+		- [ ] RAIL Model
+		- [ ] Performance Metrics
+		- [ ] Using Lighthouse
+		- [ ] Using DevTools
+- [ ] Server Side Rendering
+	- [ ] React
+		- [ ] Remix
+		- [ ] Next.js
+- [ ] Static Site Generators
+	- [ ] Elevently
+	- [ ] Astro
+	- [ ] Next.js
+- [ ] Graphql
+	- [ ] Apollo
+- [ ] Mobile applications
+	- [ ] React Native
+	- [ ] Flutter
+- [ ] Desktop Applications
+	- [ ] Electron
