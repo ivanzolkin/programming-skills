@@ -1,5 +1,5 @@
 ## Roadmap
-[Computer Science](https://roadmap.sh/computer-science)
+[Computer Science Roadmap](https://roadmap.sh/computer-science)
 
 ## Checklist
 - [ ] Data Structures
